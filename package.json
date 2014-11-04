@@ -1,0 +1,26 @@
+{
+  "name": "Slider",
+  "version": "2.0.0",
+  "description": "Basic presentation system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Slider"
+  ],
+  "author": "Nico Koelewijn",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.9",
+    "gulp-buffer": "0.0.2",
+    "gulp-compass": "^2.0.1",
+    "gulp-header": "^1.2.2",
+    "gulp-jshint": "^1.8.6",
+    "gulp-sourcemaps": "^1.2.4",
+    "gulp-uglify": "^1.0.1",
+    "gulp-util": "^3.0.1",
+    "jshint-stylish": "^1.0.0",
+    "vinyl-source-stream": "^1.0.0"
+  }
+}
